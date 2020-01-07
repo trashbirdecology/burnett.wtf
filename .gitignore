@@ -1,6 +1,4 @@
 
-static/.DS_Store
-.DS_Store
-public/about/index.html
-public/code/index.html
-public/index.xml
+*.DS_Store
+*.html
+*.xml
