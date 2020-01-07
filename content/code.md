@@ -8,9 +8,9 @@ Most of my code is open and available on Github. View my profile:
 
 
 I am currently maintaining or have significantly contributed to the following coding or software development projects:
-  - [bbsAssistant](github.com/trashbirdecology/bbsassistant)
-  - [USAvian](github.com/trashbirdecology/usavian)
-  - [regimedetectionmeasures](https://github.com/TrashBirdEcology/regimeDetectionMeasures)
-  - [radsets](https://github.com/natbprice/radsets)
+  - [bbsAssistant](github.com/trashbirdecology/bbsassistant)  
+  - [USAvian](github.com/trashbirdecology/usavian)  
+  - [regimedetectionmeasures](https://github.com/TrashBirdEcology/regimeDetectionMeasures)  
+  - [radsets](https://github.com/natbprice/radsets)  
   
   I love and hate coding.
