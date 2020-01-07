@@ -1,5 +1,7 @@
+# OSX
+.DS_Store
 *.DS_Store
 
-*.html
+# Hugo default output directory
+/public
 
-*.xml
