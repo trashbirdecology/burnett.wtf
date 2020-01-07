@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/code/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/thoughts/2016/07/application-for-mozilla-fellow-for-science/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/</loc>
+    <lastmod>2016-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2016/07/becoming-a-better-mentor/mentee-with-unl-awis/</loc>
+    <lastmod>2016-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2016/07/nelson-memorial-fellowship/</loc>
+    <lastmod>2016-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/12/my-first-whooping-crane/</loc>
+    <lastmod>2014-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/11/big-data-ornithology-sympsoium-naoc-2016/</loc>
+    <lastmod>2014-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/11/my-first-experience-with-github/</loc>
+    <lastmod>2014-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/11/my-first-experience-with-github/</loc>
+    <lastmod>2014-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/11/not-my-first-fellowship-rejection/</loc>
+    <lastmod>2014-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/thoughts/2014/08/on-urban-fieldwork/</loc>
+    <lastmod>2014-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>

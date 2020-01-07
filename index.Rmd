@@ -1,0 +1,5 @@
+---
+site: blogdown:::blogdown_site
+---
+<!-- to serve the site locally, render:  -->
+<!-- blogdown::serve_site() -->

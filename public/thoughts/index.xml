@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Jessica Burnett&#39;s Personal Website</title>
+    <link>/thoughts/</link>
+    <description>Recent content in Thoughts on Jessica Burnett&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 14 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Application for Mozilla Fellow for Science</title>
+      <link>/thoughts/2016/07/application-for-mozilla-fellow-for-science/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2016/07/application-for-mozilla-fellow-for-science/</guid>
+      <description>For the past few weeks I have been crafting my application to become a Mozilla Fellow for Science. Although the application process is relatively straight forward, the questions were tough: word limits force you to craft concise answers.
+I learned a lot during the process, and got around to some Rmarkdown development I have been putting off.
+Here is my package, sans my supervisor&#39;s letter and contact information. Regardless of the outcome, I am excited to have learned about Mozilla&#39;s dedication to opening science and initiatives to advancing open data and science at the local, regional, and global levels.</description>
+    </item>
+    
+    <item>
+      <title>Becoming a better mentor/mentee with UNL-AWIS</title>
+      <link>/thoughts/2016/07/becoming-a-better-mentor/mentee-with-unl-awis/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2016/07/becoming-a-better-mentor/mentee-with-unl-awis/</guid>
+      <description>Registration for the University of Nebraska-Lincoln Association for Women in Science (UNL-AWIS) mentor workshopis now open!
+For the last few months I have been working closely with Hannah Birge, Dr. Johnica Morrow, and Dr. Mary Bomberger Brown have been organizing an (AWIS)-sposnsored workshop on mentoring practices, hosted by Cindy Simpson (AWIS) and Dr. Donna Dean (NIH, AWIS).
+The workshop seed was planted at one of the first meetings of the UNL-AWIS group.</description>
+    </item>
+    
+    <item>
+      <title>Nelson Memorial Fellowship</title>
+      <link>/thoughts/2016/07/nelson-memorial-fellowship/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2016/07/nelson-memorial-fellowship/</guid>
+      <description>I recently received the Nelson Memorial Fellowship from the Institute of Agricultural and Natural Resources at the University of Nebraska-Lincoln for travel to Washington, D.C. for the North American Ornithological Congress VI! I am grateful for the support the donors, Drs. Stuart O. and Don.J Nelson, have provided me to discuss my research, and the advancements and future of big data ornithology. I will also be presenting preliminary results from my dissertation research in a presentation titled, &amp;ldquo;Detecting broad-scale regime shifts using the Breeding Bird Survey Data&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>My first Whooping Crane</title>
+      <link>/thoughts/2014/12/my-first-whooping-crane/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2014/12/my-first-whooping-crane/</guid>
+      <description>This morning I was lucky enough to see, up close, one of the few North American whooping cranes! With no other whooper friends around, this crane foraged at the UF Beef Teaching Unit, a small cattle facility nestled within the city of Gainesville, among groups of wintering Sandhill Cranes.
+Just when you thought the Sandhills were large and conspicuous, this Whooper stands out (literally!) in the group. This species clocks in as the tallest, flight-capable bird in the world.</description>
+    </item>
+    
+    <item>
+      <title>Big Data Ornithology Sympsoium @ NAOC 2016</title>
+      <link>/thoughts/2014/11/big-data-ornithology-sympsoium-naoc-2016/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2014/11/big-data-ornithology-sympsoium-naoc-2016/</guid>
+      <description>Dr. Chris Lepczyk (Auburn University), Dr. Frank LaSorte (eBird, Cornell Lab of Ornithology), and myself are excited to be organizing the Big Data Ornithology symposium at the North American Ornithological Congress VI in August 2016!
+Our half day symposium will showcase major advancements in field techniques and data analysis.
+Ornithology, like many other scientific disciplines, has been increasingly been involved in Big Data, which has advanced research and application in new and exciting ways.</description>
+    </item>
+    
+    <item>
+      <title>My first experience with GitHub</title>
+      <link>/thoughts/2014/11/my-first-experience-with-github/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2014/11/my-first-experience-with-github/</guid>
+      <description>GitHub is like StumbleUpon and Google&#39;s love child.
+My first foray into GitHub took a precious 2 hours of my night yesterday.
+I did, however, find this amazing R package geared towards teaching beginner R students how to use R in R.
+It&#39;s called Swirl.
+Here is their website
+Here&#39;s why it&#39;s awesome: 1. It&#39;s free, of course. 2. It&#39;s not entirely boring; learning to use R alone is. 3. It&#39;s highly interactive.</description>
+    </item>
+    
+    <item>
+      <title>Not my first fellowship rejection</title>
+      <link>/thoughts/2014/11/not-my-first-fellowship-rejection/</link>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2014/11/not-my-first-fellowship-rejection/</guid>
+      <description>Perhaps unsurprisingly, if not for the few positions available, I was not selected for the [https://mozilla-science-lab.forms.fm/mozilla-fellows-for-science-2016](Mozilla Fellows for Science program). I wanted to note here, however, that like many proposal processes a graduate student (I) applies for but does not receive is well worth their (my) time.
+This application forced me to do a few things I have been holding off on, including truly assessing my status and contributions to the open science movement, of which I am particularly an advocate of (both my M.</description>
+    </item>
+    
+    <item>
+      <title>On urban fieldwork</title>
+      <link>/thoughts/2014/08/on-urban-fieldwork/</link>
+      <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/thoughts/2014/08/on-urban-fieldwork/</guid>
+      <description>Jokingly, when describing my plans go into the field, I often find myself putting in quotations the word field. &amp;ldquo;Field&amp;quot;work.
+Why?
+My &amp;ldquo;field&amp;quot;work currently consists of driving from location to location in urban areas to conduct point counts. Having had the opportunity to conduct similar fieldwork in fairly natural settings, like the Ordway-Swisher Biological Station, the excitement of counting birds in the city wears thin during daily pockets of inactivity. This is especially true when my target species, or any species for that matter, are undetected.</description>
+    </item>
+    
+  </channel>
+</rss>
