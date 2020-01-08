@@ -1,5 +1,5 @@
 baseURL = "https://burnett.wtf"
-title   = "Jessica Burnett"
+title   = "UnDeR mAj0r CoNsTrUcT1On"
 
 DefaultContentLanguage = "en"
 
@@ -11,8 +11,6 @@ PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "CC0"
-
-
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -41,7 +39,7 @@ disableHugoGeneratorInject = false
   Thoughts = "/thoughts/:year/:month/:title/"
 
 [author]
-  name = "Jessica Burnett"
+  name = "J. Burnett"
 
 [blackfriday]
   hrefTargetBlank = true
