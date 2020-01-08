@@ -10,7 +10,9 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "CC0"
+
+
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -55,15 +57,13 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "I am cool"
-  keywords = ""
+  description = ""
+  keywords = "research, ecologist, data science, usgs, birds, ornithology, avian"
   images = [""]
 
-  homeSubtitle = "Research Ecologist & Mendenhall Postdoctoral Fellow</br>U.S. Geological Survey "
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
-
+  homeSubtitle = "Research Ecologist & Mendenhall Postdoctoral Fellow"
+ # homeSubtitle2 = "Science Analytics & Synthesis"
+  homeSubtitle3 = "U.S. Geological Survey"
   # Set disableReadOtherPosts to `true` in order to hide the links to other posts.
   disableReadOtherPosts = false
 

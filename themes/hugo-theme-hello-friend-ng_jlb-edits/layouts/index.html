@@ -7,6 +7,14 @@
                 <p>{{.}}</p>
             {{- end }}
 
+            {{- with .Site.Params.homeSubtitle2 }}
+                <p>{{.}}</p>
+            {{- end }}
+
+            {{- with .Site.Params.homeSubtitle3 }}
+                <p>{{.}}</p>
+            {{- end }}
+
             {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
