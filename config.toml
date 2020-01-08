@@ -3,8 +3,8 @@ title   = "UnDeR mAj0r CoNsTrUcT1On"
 
 DefaultContentLanguage = "en"
 
-#theme = "hugo-theme-hello-friend-ng" # original theme
-theme = "hugo-theme-hello-friend-ng_jlb-edits" # JLB edits
+theme = "hugo-theme-hello-friend-ng" # original theme
+#theme = "hugo-theme-hello-friend-ng_jlb-edits" # JLB edits
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
