@@ -14,9 +14,9 @@ copyright = "CC0"
   name = "J. Burnett"
 
 
-# Blog/posts/thoughts things
+# Blog
 [permalinks]
-  Thoughts = "/thoughts/:year/:month/:title/"
+  Posts = "/posts/:year/:month/:title/"
 
 
 [blackfriday]
@@ -45,7 +45,7 @@ copyright = "CC0"
   homeSubtitle3 = "U.S. Geological Survey"
 
 # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "thoughts"
+  contentTypeName = "posts"
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
