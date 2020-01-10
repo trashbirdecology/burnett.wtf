@@ -26,8 +26,6 @@ copyright = "CC0"
 [permalinks]
   Thoughts = "/thoughts/:year/:month/:title/"
 
-[author]
-  name = "J. Burnett"
 
 [blackfriday]
   hrefTargetBlank = true
