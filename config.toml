@@ -6,33 +6,12 @@ languageCode = "en-us"
 #theme = "hugo-theme-hello-friend-ng" # original theme
 theme = "hugo-theme-hello-friend-ng_jlb-edits" # JLB edits
 
-# Footer shit
 copyright = "CC0"
 
-# Meta
 [author]
   name = "J. Burnett"
-
-
-# Blog
 [permalinks]
   Posts = "/posts/:year/:month/:title/"
-
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-
-[params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-
 
 # Metadata mostly used in document's head
   description = ""
@@ -47,17 +26,17 @@ copyright = "CC0"
 # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
 
-  # Default theme "light" or "dark"
+# Default theme "light" or "dark"
   defaultTheme = "dark"
   themeColor = "#252627"
 
-  # Colors for favicons
+# Colors for favicons
   [params.favicon.color]
     mask = "#252627"
     msapplication = "#252627"
     theme = "#252627"
 
- # Social icons
+# Social icons
   [[params.social]]
     name = "github"
     url  = "https://github.com/trashbirdecology"
@@ -70,14 +49,4 @@ copyright = "CC0"
   [[params.social]]
     name = "stackoverflow"
     url  = "https://stackoverflow.com/users/4137899/jessica-burnett"
-#  [[params.social]]
-#    name = "linkedin"
-#    url  = "https://www.linkedin.com/"
 
-
-
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
