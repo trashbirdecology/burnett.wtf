@@ -1,6 +1,5 @@
 ---
-title: "About"
-date: 2018-02-13T13:42:49-05:00
+title: ""
 ---
 
 I am a Research Ecologist and [Mendenhall Postdoctoral Fellow](https://www.usgs.gov/centers/mendenhall) at the U.S. Geological Survey Core Science Systems [Science Analytics and Synthesis](https://www.usgs.gov/core-science-systems/science-analytics-and-synthesis/about). I am motivated most by the promise of using __extant data__ to inform ecological understanding, and a paycheck helps. 
