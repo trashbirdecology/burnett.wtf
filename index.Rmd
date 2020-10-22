@@ -2,5 +2,6 @@
 site: blogdown:::blogdown_site
 ---
 ```{r}
+blogdown::install_theme("/panr/hugo-theme-hello-friend/", force=TRUE)
 blogdown::serve_site()
 ```
