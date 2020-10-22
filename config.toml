@@ -31,8 +31,8 @@ paginate = 5
 
 
     [languages.en.params.logo]
-      logoText = "$ cd home" # this is the fun thing in upper LHS of page
-      logoHomeLink = "/"
+      logoText = "jessica burnett" # this is the fun thing in upper LHS of page
+      logoHomeLink = "/about"
     # or
     #
     # path = "/img/your-example-logo.svg"

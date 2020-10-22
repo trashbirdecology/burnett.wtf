@@ -2,6 +2,7 @@
 site: blogdown:::blogdown_site
 ---
 ```{r}
-blogdown::install_theme("/panr/hugo-theme-hello-friend/", force=TRUE)
+# blogdown::install_theme("/panr/hugo-theme-hello-friend/", force=TRUE)
+# blogdown::build_site()
 blogdown::serve_site()
 ```
