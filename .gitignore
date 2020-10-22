@@ -6,3 +6,4 @@ themes/.DS_Store
 # Hugo default output directory
 /public
 themes/.DS_Store
+content/.DS_Store

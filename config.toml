@@ -17,7 +17,7 @@ paginate = 5
   [languages.en]
     title = "Jessica Burnett, Ph.D."
     subtitle = "Research Ecologist, U.S. Geological Survey"
-    keywords = "ecology"
+    keywords = "ecology reproducibility"
     copyright = ""
     menuMore = "May I have some more, please?"
     writtenBy = "Written by"
@@ -53,6 +53,10 @@ paginate = 5
         name = "Research"
         url = "/research"
       [[languages.en.menu.main]]
-        identifier = "thoughts" 
+        identifier = "presentations"
+        name = "Presentations"
+        url = "/presentations"
+      [[languages.en.menu.main]]
+        identifier = "thoughts"
         name = "Thoughts"
         url = "/thoughts"
