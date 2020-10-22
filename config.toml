@@ -2,6 +2,8 @@ baseurl = "http://burnett.wtf"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
+defaultContentLanguage = "en"
+enableEmoji = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -12,6 +14,10 @@ paginate = 5
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = true
+
+[module]
+  [module.hugoVersion]
+    min = "0.56.0"
 
 [languages]
   [languages.en]
