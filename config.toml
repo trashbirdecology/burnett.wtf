@@ -15,10 +15,6 @@ enableEmoji = true
   # Enable to show reading time in minutes for posts
   showReadingTime = true
 
-[module]
-  [module.hugoVersion]
-    min = "0.62.2"
-
 [languages]
   [languages.en]
     title = "Jessica Burnett, Ph.D."
