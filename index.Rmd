@@ -3,7 +3,7 @@ site: blogdown:::blogdown_site
 ---
 ```{r}
 # blogdown::install_theme("/panr/hugo-theme-hello-friend/", force=TRUE)
-blogdown::update_hugo()
-blogdown::build_site()
+# blogdown::update_hugo()
+# blogdown::build_site()
 blogdown::serve_site()
 ```
